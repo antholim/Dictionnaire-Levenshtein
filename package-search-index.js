@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ca.qc.bdeb.inf202.tp1"}];updateSearchResults();

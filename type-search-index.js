@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ca.qc.bdeb.inf202.tp1","l":"Dictionnaire"},{"p":"ca.qc.bdeb.inf202.tp1","l":"Main"},{"p":"ca.qc.bdeb.inf202.tp1","l":"Resultats"}];updateSearchResults();
